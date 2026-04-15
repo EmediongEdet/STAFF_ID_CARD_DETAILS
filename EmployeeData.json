@@ -1,0 +1,242 @@
+[
+  {
+    "S/N": 1,
+    "staff_id": 245407,
+    "name": "AUGUSTUS AWAJI UBULOM",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 9074080968,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20245407%0AName%3A%20AUGUSTUS%20AWAJI%20UBULOM%0APhone%3A%209074080968%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2012%2F10%2F1999%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20EASTERN%20OBOLO%0ANIN%3A%2040288434309%0AJoining%20Date%3A%2009%2F06%2F2024%0AAddress%3A%20EDE%20IMAN%2C%20OKOROETE%20EASTERN%20OBOLO%0AFather%27s%20Name%3A%20AWAJI%20GILBERT"
+  },
+  {
+    "S/N": 2,
+    "staff_id": 225243,
+    "name": "JOSEPH ANIEFIOK SUNDAY",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 9026408291,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20225243%0AName%3A%20JOSEPH%20ANIEFIOK%20SUNDAY%0APhone%3A%209026408291%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2012%2F04%2F1998%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20NSIT%20IBOM%0ANIN%3A%2078873156777%0AJoining%20Date%3A%2001%2F08%2F2022%0AAddress%3A%20IKOT%20ESSIEN%2C%20IKOT%20ABASI%0AFather%27s%20Name%3A%20ANIEFIOK%20SUNDAY"
+  },
+  {
+    "S/N": 3,
+    "staff_id": 225374,
+    "name": "NWAEDOZIE FRANK ASINASIALI",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 8119080710,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20225374%0AName%3A%20NWAEDOZIE%20FRANK%20ASINASIALI%0APhone%3A%208119080710%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20DELTA%0ADOB%3A%2018%2F06%2F1993%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20NDOKWA%20EAST%0ANIN%3A%2058597807441%0AJoining%20Date%3A%2005%2F12%2F2022%0AAddress%3A%20IKOT%20ESSIEN%2C%20IKOT%20ABASI%0AFather%27s%20Name%3A%20CHUKWUTEM%20ELVIS"
+  },
+  {
+    "S/N": 4,
+    "staff_id": 235381,
+    "name": "NSIKAN HENSHAW OKON",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 8133570989,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20235381%0AName%3A%20NSIKAN%20HENSHAW%20OKON%0APhone%3A%208133570989%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2012%2F04%2F1990%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20IKOT%20ABASI%0ANIN%3A%2065537471527%0AJoining%20Date%3A%2027%2F03%2F2023%0AAddress%3A%20IKOT%20ESSIEN%2C%20IKOT%20ABASI%0AFather%27s%20Name%3A%20HENSHAW%20OKON"
+  },
+  {
+    "S/N": 5,
+    "staff_id": 245406,
+    "name": "THELMA UDOETTE",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 8137507084,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20245406%0AName%3A%20THELMA%20UDOETTE%20%0APhone%3A%208137507084%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2010%2F08%2F1992%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20UKANAFUN%0ANIN%3A%2015081224961%0AJoining%20Date%3A%2001%2F04%2F2022%0AAddress%3A%2032A%20FEROSTAAL%20CAMP%2C%20IKOT%20ABASI%0AFather%27s%20Name%3A%20IME%20THOMAS"
+  },
+  {
+    "S/N": 6,
+    "staff_id": 255412,
+    "name": "IMOH EDIDIONG UBONG",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 7064190578,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20255412%0AName%3A%20IMOH%20EDIDIONG%20UBONG%0APhone%3A%207064190578%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2017%2F12%2F2000%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20UYO%0ANIN%3A%2057154709157%0AJoining%20Date%3A%2010%2F02%2F2025%0AAddress%3A%20UKANA%20OFOT%20STRT%2C%20UYO%0AFather%27s%20Name%3A%20UBONG%20IMO"
+  },
+  {
+    "S/N": 7,
+    "staff_id": 255413,
+    "name": "SAMSON SOLOMON IRABOR",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 9160367941,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20255413%0AName%3A%20SAMSON%20SOLOMON%20IRABOR%0APhone%3A%209160367941%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20EDO%0ADOB%3A%2014%2F01%2F1998%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20ESAN%20WEST%0ANIN%3A%2014459897363%0AJoining%20Date%3A%2007.04.2025%0AAddress%3A%20167%20IKPA%20IBEKWE%20RD%2C%20IK%20ABASI%0AFather%27s%20Name%3A%20SOLOMON%20IRABOR"
+  },
+  {
+    "S/N": 8,
+    "staff_id": 255414,
+    "name": "ANIEKEME EPHRAIM ETIM",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 8067158043,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20255414%0AName%3A%20ANIEKEME%20EPHRAIM%20ETIM%0APhone%3A%208067158043%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2015%2F06%2F1993%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20ESSIEN%20UDIM%0ANIN%3A%2046612020882%0AJoining%20Date%3A%207.04.2025%0AAddress%3A%2036%20EKPENE%20OBOM%20ST%2C%20UYO%0AFather%27s%20Name%3A%20EPHRAIM%20ETIM"
+  },
+  {
+    "S/N": 9,
+    "staff_id": 225316,
+    "name": "PROSPER BASSEY",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 8148829578,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20225316%0AName%3A%20PROSPER%20BASSEY%20%0APhone%3A%208148829578%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2010%2F12%2F2001%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20UKANAFUN%0ANIN%3A%2041821602308%0AJoining%20Date%3A%2020%2F10%2F2022%0AAddress%3A%204%20EDU%20CLOSE%2C%20ESA%20AKPAN%2C%20EKET%0AFather%27s%20Name%3A%20IMEH%20BASSEY"
+  },
+  {
+    "S/N": 10,
+    "staff_id": 245408,
+    "name": "NJAH FELIX ATANGBA",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 8161387252,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20245408%0AName%3A%20NJAH%20FELIX%20ATANGBA%0APhone%3A%208161387252%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20CROSS%20RIVER%0ADOB%3A%2025%2F09%2F1985%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20AKAMKPA%0ANIN%3A%2073923657038%0AJoining%20Date%3A%2021%2F09%2F2024%0AAddress%3A%20OBONG%20TOWN%2C%20AKAMKPA%0AFather%27s%20Name%3A%20CELESTINE%20NJAH"
+  },
+  {
+    "S/N": 11,
+    "staff_id": 255419,
+    "name": "MANUCHIM CHUKU",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 9023594549,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20255419%0AName%3A%20MANUCHIM%20CHUKU%20%0APhone%3A%209023594549%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20RIVERS%20%0ADOB%3A%2014%2F01%2F1990%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20OBIO%2FAKPO%0ANIN%3A%2014568355246%0AJoining%20Date%3A%2014%2F05%2F2025%0AAddress%3A%2015%20ESTATE%20RD%2C%20WOJI%2C%20PORT%20HARCOURT%20R%2FS%0AFather%27s%20Name%3A%20FYNEFACE%20CHUKU"
+  },
+  {
+    "S/N": 12,
+    "staff_id": 245396,
+    "name": "JOEL OKON TIMOTHY",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 9058401669,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20245396%0AName%3A%20JOEL%20OKON%20TIMOTHY%0APhone%3A%209058401669%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2008%2F03%2F1999%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20EKET%20LGA%0ANIN%3A%2028950275450%0AJoining%20Date%3A%2012%2F02%2F2024%0AAddress%3A%20IKOT%20ABIA%2C%20OKON%20EKET%0AFather%27s%20Name%3A%20NIL"
+  },
+  {
+    "S/N": 13,
+    "staff_id": 245397,
+    "name": "KINIOBONG ERIC UDO",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 9130985561,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20245397%0AName%3A%20KINIOBONG%20ERIC%20UDO%0APhone%3A%209130985561%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2021%2F10%2F2003%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20IKOT%20EKPENE%20%0ANIN%3A%2044958728757%0AJoining%20Date%3A%2012%2F02%2F2024%0AAddress%3A%2032%20ESSIEN%20RD%2C%20IKOT%20EKPENE%0AFather%27s%20Name%3A%20ERIC%20UDOH%20"
+  },
+  {
+    "S/N": 14,
+    "staff_id": 245404,
+    "name": "TAOFEEQ IBRAHIM ABIODUN",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 9165348212,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20245404%0AName%3A%20TAOFEEQ%20IBRAHIM%20ABIODUN%0APhone%3A%209165348212%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20LAGOS%0ADOB%3A%2007%2F12%2F1997%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20LAGOS%0ANIN%3A%2091653482212%0AJoining%20Date%3A%2010%2F06%2F2024%0AAddress%3A%20SHELL%20RD%2C%20IKOT%20EKONG%20AKPADEN%0AFather%27s%20Name%3A%20AL-AMIN%20MUAZU"
+  },
+  {
+    "S/N": 15,
+    "staff_id": 245409,
+    "name": "EDITORO GODWIN OKON",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 7030485691,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20245409%0AName%3A%20EDITORO%20GODWIN%20OKON%0APhone%3A%207030485691%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2004%2F02%2F1990%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20NSIT%20UBIUM%0ANIN%3A%2029088621858%0AJoining%20Date%3A%2011%2F12%2F2024%0AAddress%3A%2019%20IKOT%20EBOK%20STRT%2C%20EKET%0AFather%27s%20Name%3A%20OKON%20SILAS"
+  },
+  {
+    "S/N": 16,
+    "staff_id": 255416,
+    "name": "DONALD MONDAY PAUL",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 7030920924,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20255416%0AName%3A%20DONALD%20MONDAY%20PAUL%0APhone%3A%207030920924%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2002%2F12%2F1990%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20ESIT%20EKET%0ANIN%3A%2062203003093%0AJoining%20Date%3A%2007%2F11%2F2022%0AAddress%3A%202%2C%20UBONG%20AVENUE%2C%20EKET%0AFather%27s%20Name%3A%20MONDAY%20PAUL"
+  },
+  {
+    "S/N": 17,
+    "staff_id": 225311,
+    "name": "ETORO NDIPMO IBOK",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 7010138040,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20225311%0AName%3A%20ETORO%20NDIPMO%20IBOK%0APhone%3A%207010138040%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2023%2F07%2F1999%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20EKET%20LGA%0ANIN%3A%2090543424154%0AJoining%20Date%3A%2029%2F08%2F2022%0AAddress%3A%20IKOT%20UDO%20IME%2C%20IKOT%20OKUDOM%0AFather%27s%20Name%3A%20NDIPMO%20IBOK"
+  },
+  {
+    "S/N": 18,
+    "staff_id": 255411,
+    "name": "UDOKANG ETINYENE",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 7037826283,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20255411%0AName%3A%20UDOKANG%20ETINYENE%20%0APhone%3A%207037826283%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2005%2F11%2F1988%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20IKOT%20ABASI%0ANIN%3A%2036379865424%0AJoining%20Date%3A%2010%2F02%2F2025%0AAddress%3A%2060%20ATAN%20OFOT%20RD%2C%20OFF%20ABAK%20RD%20UYO%0AFather%27s%20Name%3A%20NDARAKE%20UDOKANG"
+  },
+  {
+    "S/N": 19,
+    "staff_id": 255410,
+    "name": "ETUKAKPAN NSIKAN",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 8029553301,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20255410%0AName%3A%20ETUKAKPAN%20NSIKAN%20%0APhone%3A%208029553301%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2012%2F08%2F1980%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20IKOT%20ABASI%0ANIN%3A%2082972042149%0AJoining%20Date%3A%2010%2F02%2F2025%0AAddress%3A%2025%20EKANEM%20STRT%2C%20UYO%0AFather%27s%20Name%3A%20NSIKAN%20ETUKAKPAN"
+  },
+  {
+    "S/N": 20,
+    "staff_id": 225245,
+    "name": "INEMESIT NICHOLAS UDOH",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 9063747521,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20225245%0AName%3A%20INEMESIT%20NICHOLAS%20UDOH%0APhone%3A%209063747521%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2025%2F01%2F1980%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20ABAK%0ANIN%3A%2011774384559%0AJoining%20Date%3A%2005%2F08%2F2022%0AAddress%3A%203%20AFIA%20ETTE%20STRT%2C%20ETE%0AFather%27s%20Name%3A%20NICHOLAS%20UDO"
+  },
+  {
+    "S/N": 21,
+    "staff_id": 255422,
+    "name": "IREN EMMANUEL NATHAN",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 8138982402,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20255422%0AName%3A%20IREN%20EMMANUEL%20NATHAN%0APhone%3A%208138982402%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2019%2F07%2F1991%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20IKOT%20ABASI%0ANIN%3A%2022208560968%0AJoining%20Date%3A%2021%2F09%2F2025%0AAddress%3A%20ALONG%20JAMES%20TOWN%20RD.%20EKET%0AFather%27s%20Name%3A%20EMMANUEL%20IREN"
+  },
+  {
+    "S/N": 22,
+    "staff_id": 255424,
+    "name": "AKAKODUNG UBONG ITA",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 7062623886,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20255424%0AName%3A%20AKAKODUNG%20UBONG%20ITA%0APhone%3A%207062623886%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2017%2F02%2F1994%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20MBO%0ANIN%3A%2080509674474%0AJoining%20Date%3A%2021%2F12%2F2025%0AAddress%3A%20NUNG%20UKOT%20ITAM%20%0AFather%27s%20Name%3A%20ITA%20ETO"
+  },
+  {
+    "S/N": 23,
+    "staff_id": 265462,
+    "name": "SAMPSON UTIBEIMA EFFIONG",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 8145009182,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20265462%0AName%3A%20SAMPSON%20UTIBEIMA%20EFFIONG%0APhone%3A%208145009182%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2023%2F11%2F2000%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20ETIM%20EKPO%0ANIN%3A%2087105036896%0AJoining%20Date%3A%2016%2F02%2F2026%0AAddress%3A%20NO%20109%20UDO%20EKPO%20MKPO%20STREET%0AFather%27s%20Name%3A%20EFFIONG%20%20SAMPSON"
+  },
+  {
+    "S/N": 24,
+    "staff_id": 265461,
+    "name": "EMEDIONG HENRY EDET",
+    "employer": "SILVER TIARA LOGISTICS LIMITED",
+    "department": "ADMIN STAFF",
+    "staff_phone": 9044028840,
+    "ID_policy": "The ID card is strictly for official use and should not be shared or used for unauthorized purposes",
+    "qr_code": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID%3A%20265461%0AName%3A%20EMEDIONG%20HENRY%20EDET%0APhone%3A%209044028840%0ADept%3A%20ADMIN%20STAFF%0AState%3A%20AKWA%20IBOM%0ADOB%3A%2021%2F11%2F1996%0AAccounting%20Company%3A%20SILVER%20TIARA%20LOGISTICS%20LIMITED%0ALocal%20Govt%3A%20MKPAT%20ENIN%0ANIN%3A%2056802226241%0AJoining%20Date%3A%2016%2F02%2F2026%0AAddress%3A%20IKOT%20ISIGHE%20%2C%20MKPAT%20ENIN%2C%20AKS%0AFather%27s%20Name%3A%20HENRY%20INYANG"
+  }
+]
